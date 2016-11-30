@@ -38,9 +38,7 @@ import Model.M_place_api;
 import Utils.Datas;
 import xyz.sahildave.widget.SearchViewLayout;
 
-/**
- * Created by wts5 on 12/4/16.
- */
+
 public class Search_fragment extends Fragment {
 
     public static RequestQueue queue;

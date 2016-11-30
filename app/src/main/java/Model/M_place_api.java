@@ -2,9 +2,7 @@ package Model;
 
 import java.util.List;
 
-/**
- * Created by wts5 on 12/4/16.
- */
+
 public class M_place_api {
 
 
