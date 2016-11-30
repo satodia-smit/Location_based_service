@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location_based_service</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_temp">temp</string>
+    <string name="google_api_key">AIzaSyAr7RWJjrQBfW8-eKHSkjbqYt5__Y3IFuc</string>
+    <string name="title_activity_detail_map">Detail_map</string>
+    <string name="title_activity_view_direction_map">view Direction</string>
+</resources>
